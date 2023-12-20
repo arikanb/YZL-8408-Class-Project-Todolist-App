@@ -24,7 +24,7 @@
 - Test
 - Deploy
 
-## Uzak Servis Bilgileri
+## Service Endpoint
 ### https://todo-service-app-fdc3149b656f.herokuapp.com/todos       
 [GET]       Tüm todo' ları getir.
 ### https://todo-service-app-fdc3149b656f.herokuapp.com/todos/1     
