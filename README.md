@@ -14,7 +14,7 @@
 
 ### Tasarım
 
-![Beklenen Çıktı Resmi](./assets/design.jpg)
+![Beklenen Çıktı Resmi](./design.png)
 
 ### İzlenecek Adımlar
 
